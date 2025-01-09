@@ -7,8 +7,8 @@
   justify-content: space-between;
   margin-top: 49px;
   z-index: 1;
-  margin-left: 10%;
-  margin-right: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .content {
@@ -27,7 +27,7 @@
   background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 1) 70%,
-    rgba(255, 255, 255, 0) 120%
+    rgba(255, 255, 255, 0.5) 120%
   );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -79,9 +79,9 @@
   min-width: 350px;
   min-width: 350px;
   top: -128px;
-  left: -10vw;
+  left: 0vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: rgb(201, 178, 211);
   filter: blur(100px);
   z-index: 0;
 }
@@ -93,9 +93,9 @@
   min-width: 350px;
   min-width: 250px;
   top: 246px;
-  right: -25vw;
+  right: 0vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: rgb(201, 178, 211);
   filter: blur(100px);
   z-index: 0;
 }

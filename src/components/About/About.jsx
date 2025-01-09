@@ -21,16 +21,17 @@ export const About = () => {
               <p>
                 好きな役は立直。
                 <br />
-                Mリーグ観戦も好きで赤坂ドリブンズ応援してます。
+                Mリーグ観戦も好きで赤坂ドリブンズを応援しています。
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/active.png")} alt="運動" />
             <div className={styles.aboutItemText}>
-              <h3>運動</h3>
+              <h3>スポーツ</h3>
               <p>
-                球技全般が好きで、今はバスケサークルに入っています。
+                球技全般が好きで、今はバスケサークルに所属しています。
+                <br />
                 中学時代は棒高跳をやっていました。
               </p>
             </div>
