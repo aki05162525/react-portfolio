@@ -4,5 +4,5 @@
 //なんで上のではうまくいかなかったのか？？？
 
 export const getImageUrl = (path) => {
-  return `/assets/${path}`; // public フォルダ基準のパスを返す
+  return `${import.meta.env.BASE_URL}assets/${path}`; // Viteの base を使用
 };
