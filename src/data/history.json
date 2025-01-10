@@ -1,0 +1,29 @@
+[
+    {
+      "role": "プロダクトマネージャー",
+      "organisation": "",
+      "startDate": "Sep, 2024",
+      "endDate": "Present",
+      "experiences": ["配布プログラム管理", "テスト要件作成"],
+      "imageSrc": "history/kaisya.png"
+    },
+    {
+      "role": "Programing",
+      "organisation": "Apr, 203",
+      "startDate": "Present",
+      "endDate": "Present",
+      "experiences": ["GCI{}を受講中", "最近はReactを勉強中"],
+      "imageSrc": "history/image.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Netflix",
+      "startDate": "Apr, 2020",
+      "endDate": "Jun, 2020",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]

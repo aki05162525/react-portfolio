@@ -14,10 +14,7 @@ export const Hero = () => {
           <br />
           キャッチコピー「コツコツと常に前進」
         </p>
-        <a
-          href="mailto:akihiro05162525@gmail.com"
-          className={styles.contactBtn}
-        >
+        <a href="mailto:aki.takagi0516@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
