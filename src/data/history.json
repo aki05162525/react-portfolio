@@ -8,22 +8,24 @@
       "imageSrc": "history/kaisya.png"
     },
     {
-      "role": "Programing",
-      "organisation": "Apr, 203",
-      "startDate": "Present",
+      "role": "プログラミング",
+      "organisation": "",
+      "startDate": "Apr, 2023",
       "endDate": "Present",
-      "experiences": ["GCI{}を受講中", "最近はReactを勉強中"],
-      "imageSrc": "history/image.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        {
+          "description": "GCI",
+          "link": "https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2024-winter"
+        },
+        {
+          "description": "最近はReactを勉強中",
+          "link": null
+        },
+        {
+          "description": "勉強記録",
+          "link": "https://github.com/aki05162525/learning-recodes"
+        }
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/image.png"
     }
   ]
